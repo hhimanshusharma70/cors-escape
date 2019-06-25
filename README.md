@@ -14,13 +14,13 @@ Working Approach: Create a Controller which match the prefix that will be append
 
 Before Adding Url Prefix:-
 
-![Image description]https://firebasestorage.googleapis.com/v0/b/github-c7ce1.appspot.com/o/crop_error.png?alt=media&token=3f524026-279c-4432-9e7d-4f2186be2dfa
+![alt text]https://firebasestorage.googleapis.com/v0/b/github-c7ce1.appspot.com/o/crop_error.png?alt=media&token=3f524026-279c-4432-9e7d-4f2186be2dfa
 
 After Adding the prefix : http://192.168.1.231:9000/cors-escape/ before to google content server https://www.googleapis.com/upload/storage/v1/b/++++++++++++++++++++++  then CORS error resolved.
 
 After Adding :- 
 
-![Image description]https://firebasestorage.googleapis.com/v0/b/github-c7ce1.appspot.com/o/error_resolved.png?alt=media&token=adc3dcf7-0bb9-4866-a3bf-a8d6e7d74d3d
+![alt text]https://firebasestorage.googleapis.com/v0/b/github-c7ce1.appspot.com/o/error_resolved.png?alt=media&token=adc3dcf7-0bb9-4866-a3bf-a8d6e7d74d3d
 
 You can add your custom url prefix. 
 
