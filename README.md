@@ -14,13 +14,16 @@ Working Approach: Create a Controller which match the prefix that will be append
 
 Before Adding Url Prefix:-
 
-![alt text]https://github.com/hhimanshusharma70/Images/blob/master/crop_error.png?raw=true
+![crop_error](https://user-images.githubusercontent.com/26761847/60092351-6f385f80-9764-11e9-83a3-23394edb9950.png)
+
+
 
 After Adding the prefix : http://192.168.1.231:9000/cors-escape/ before to google content server https://www.googleapis.com/upload/storage/v1/b/++++++++++++++++++++++  then CORS error resolved.
 
 After Adding :- 
 
-![alt text]https://github.com/hhimanshusharma70/Images/blob/master/error_resolved.png?raw=true
+![error_resolved](https://user-images.githubusercontent.com/26761847/60092352-6fd0f600-9764-11e9-9fef-10ab23f1cc23.png)
+
 
 You can add your custom url prefix. 
 
