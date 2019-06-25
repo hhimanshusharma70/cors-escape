@@ -1,4 +1,4 @@
-# cors-esacpe
+# cors-escape
 Sample Spring Boot Java Project which will resolve CORS issues when calling external API outside of Nginx server.
 
 A more common solution is used today "https://cors-anywhere.herokuapp.com/" which stops working after few no of request.
@@ -26,4 +26,6 @@ After Adding :-
 
 
 You can add your custom url prefix. 
+
+Cheers !!
 
